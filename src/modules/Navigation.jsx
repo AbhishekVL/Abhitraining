@@ -3,7 +3,7 @@ const Navigation = () => {
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          SEPL
+          AVL
         </a>
         <button
           className="navbar-toggler"
@@ -21,11 +21,6 @@ const Navigation = () => {
             <li className="nav-item">
               <a className="nav-link active" aria-current="page" href="#">
                 Home
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="#">
-                Classroom
               </a>
             </li>
             <li className="nav-item">
