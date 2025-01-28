@@ -9,9 +9,9 @@ const Hero = () => {
         <div className="row justify-content-center">
           <div className="col-md-4">
             <Profile
-              name="Shyam"
-              title="Web developemtn"
-              profilepic="./profile.jpeg"
+              name="Abhishek Lokapur"
+              title="Web developement"
+              profilepic="./profile.JPG"
             ></Profile>
           </div>
           <div className="col-md-6">
